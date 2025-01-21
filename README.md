@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&&color=0:EEFF00,100:a82da8&height=300&section=header&text=Yujeong's%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&&color=auto&height=300&section=header&text=Yujeong's%20Github&fontSize=50)
 
 <!--
 **dbwjd323/dbwjd323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
