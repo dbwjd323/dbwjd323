@@ -22,10 +22,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@dbwjd323/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@dbwjd323/posts"> </a>
-        <a href="mailto:chocoyujung7@gmail.com">
-    <img
-      src="https://img.shields.io/badge/chocoyujung7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+        
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
